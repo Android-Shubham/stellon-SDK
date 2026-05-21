@@ -1,0 +1,3 @@
+-keep class com.stellon.mobile.sdk.internal.NativeBitnetBridge { *; }
+-keep class com.stellon.mobile.sdk.internal.NativeTokenCallback { *; }
+-keep class com.stellon.mobile.sdk.CancellationToken { *; }

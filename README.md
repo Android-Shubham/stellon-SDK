@@ -2,7 +2,6 @@
 
 Native Android SDK for running BitNet-style local inference behind a Kotlin API.
 
-For a full layer-by-layer explanation of the project internals, see `ARCHITECTURE.md`.
 
 ## Architecture
 
